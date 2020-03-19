@@ -25,6 +25,7 @@ Little example from an user ([tenjumh](https://github.com/tenjumh/Pixel-Annotati
 * [Qt](https://www.qt.io/download-open-source/)  >= 5.x
 * [CMake](https://cmake.org/download/) >= 2.8.x 
 * [OpenCV](http://opencv.org/releases.html) >= 2.4.x 
+* [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (Alternatively, set GIT_TAG env variable manually)
 * For Windows Compiler : Works under Visual Studio >= 2015
 
 How to build go to [here](scripts_to_build)
